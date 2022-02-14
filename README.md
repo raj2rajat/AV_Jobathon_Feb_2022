@@ -1,23 +1,6 @@
 # AV_Jobathon_Feb_2022
 
 
-Problem Statement and Objective![image](https://user-images.githubusercontent.com/59175345/153956594-e883962f-d2a2-4a4b-af44-e729564319d1.png)
-Objective
-The main objective of the problem is to develop the machine learning approach to predict the engagement score of the video on the user level.
-
-Problem Statement
-
-ABC is an online content sharing platform that enables users to create, upload and share the content in the form of videos. It includes videos from different genres like entertainment, education, sports, technology, and so on. The maximum duration of the video is 10 minutes.
-Users can like, comment, and share the videos on the platform. 
-Based on the user’s interaction with the videos, an engagement score is assigned to the video with respect to each user. The engagement score defines how engaging the content of the video is. 
-Understanding the engagement score of the video improves the user’s interaction with the platform. It defines the type of content that is appealing to the user and engages the larger audience.
-
-![image](https://user-images.githubusercontent.com/59175345/153956629-9e44611b-c1de-4a64-a71f-ef3b7b30c241.png)
-
-![image](https://user-images.githubusercontent.com/59175345/153956656-e58d0968-4a05-4451-b406-e5a93ea0a252.png)
-
-
-
 Objective: To build a generic model to predict user engagement score for a video
 ![image](https://user-images.githubusercontent.com/59175345/153953433-63cbc12c-584e-4c10-bea7-ddafda89acbb.png)
 
@@ -40,7 +23,7 @@ Young age people are generating more engagement scores and engagement is decreas
 Label encoding gives a better result than one_hot_encoding in this case.
 Combiming gender, age and profession to create special categories can be a good option which I could have tried.
 ![image](https://user-images.githubusercontent.com/59175345/153953657-7dab4424-eafe-4c93-94bd-bde42c5dfa04.png)
-![image](https://user-images.githubusercontent.com/59175345/153956782-a43fbb7c-a519-466b-9225-4f85057f7d5d.png)
+
 
 
 
