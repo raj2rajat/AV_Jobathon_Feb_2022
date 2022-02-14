@@ -19,6 +19,10 @@ Decision Tree Model view from random Forest :
 
 ![image](https://user-images.githubusercontent.com/59175345/153953746-f5361466-8eb1-4951-99bc-1d673a78e02f.png)
 
+results:
+![image](https://user-images.githubusercontent.com/59175345/153960460-70aa0eaf-ed18-423b-bc22-bbb795f8dc8f.png)
+
+
 
 Possible exploration if I had more time![image](https://user-images.githubusercontent.com/59175345/153953818-aadfe05e-bb6e-43d1-bb71-63c9f9b26ecf.png)
 
